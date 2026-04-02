@@ -20,7 +20,6 @@ Sou desenvolvedor com foco em back-end, mas também tenho um pouco de experiênc
 
 # 📊 GitHub Stats:
 
-![Status do Geovanni](https://github-readme-stats.vercel.app/api?username=Geovanni-dev&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true)
+![Status do Geovanni](https://github-readme-stats-eight-theta.vercel.app/api?username=Geovanni-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Linguagens do Geovanni](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanni-dev&layout=compact&theme=shadow_blue)
-
+![Linguagens do Geovanni](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Geovanni-dev&layout=compact&theme=dracula)
